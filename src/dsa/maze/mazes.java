@@ -4,7 +4,8 @@ public class mazes {
     public static void main(String[] args) {
 
     }
-    public static void count(int r , int l){
+    public static void count(int r , int c){
+        
 
     }
 }
