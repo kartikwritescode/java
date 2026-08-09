@@ -52,6 +52,9 @@ public class subsequences{
 
     for (List<Integer> subset : outer) {
         System.out.println(subset);
+
+
+        
     }
 
     return outer;
