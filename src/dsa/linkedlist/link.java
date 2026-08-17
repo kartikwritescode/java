@@ -106,7 +106,7 @@ public class link {
             return deleteFirst();
         }
         Node secondLast = get(size-2);
-        int val = tail.value;
+        int val = tail.val;
         tail = secondLast;
         tail.next=null;
         return val;
